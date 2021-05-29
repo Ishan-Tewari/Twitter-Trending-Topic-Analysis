@@ -1,2 +1,2 @@
-# Web-Mining-Project
-Contains code for Web Mining Project
+# Twitter-Trending-Topic-Analysis
+Contains code for Twitter Trending Topic Analysis
